@@ -1,5 +1,7 @@
 # Visualise-Data-with-a-Bar-Chart
 
+Live link: https://arig501.github.io/Visualise-Data-with-a-Bar-Chart/
+
 Objective: Build an app that is functionally similar to this: https://bar-chart.freecodecamp.rocks.
 
 Fulfill the below user stories and get all of the tests to pass. Use whichever libraries or APIs you need. Give it your own personal style.
